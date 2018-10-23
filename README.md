@@ -2,7 +2,8 @@
 Natural Language Processing TF-IDF(Term Frequency – Inverse Document Frequency)
 
 Data table created by the emotional and mathematical provisions of each word`s frequency for Turkish language.
-Each word belongs with one of a emotion listed below.
+Each word belongs one of a emotion listed below.
+
 cosku - excitement, 
 duygusal - neutral, 
 korku - fear, 
